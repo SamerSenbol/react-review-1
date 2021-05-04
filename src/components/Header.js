@@ -3,7 +3,9 @@ import React from 'react'
 
 function Header (){
     return (
-        <h1>Header</h1>
+        <div className='navbar bg-dark rounded text-white'>
+            <h2>Our Tema</h2>
+        </div>
     )
 }
 
